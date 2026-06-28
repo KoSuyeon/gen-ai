@@ -1,0 +1,31 @@
+﻿term_id,source_term,source_lang,target_term_ko,category,note
+G001,crew neck,en,라운드넥,의류/넥라인,"'크루넥' 음역 금지, '라운드넥'으로 통일"
+G002,slim fit,en,슬림핏,의류/핏,핏 용어는 '핏'으로 끝맺음
+G003,oversized fit,en,오버핏,의류/핏,'오버사이즈드'로 풀어쓰지 않음
+G004,regular fit,en,레귤러핏,의류/핏,
+G005,hoodie,en,후드티,의류/품목,'후디' 금지
+G006,sweatshirt,en,맨투맨,의류/품목,국내 통용어 '맨투맨' 사용
+G007,cardigan,en,가디건,의류/품목,"'카디건' 아님, '가디건' 표기 통일"
+G008,blouse,en,블라우스,의류/품목,
+G009,slacks,en,슬랙스,의류/품목,
+G010,denim,en,데님,소재,'진' 대신 소재명은 '데님'
+G011,cotton,en,면,소재,100% cotton -> '순면'
+G012,polyester,en,폴리에스터,소재,'폴리에스테르' 아님
+G013,wool,en,울,소재,
+G014,linen,en,린넨,소재,
+G015,high-waisted,en,하이웨스트,의류/디테일,
+G016,cropped,en,크롭,의류/디테일,
+G017,tapered,en,테이퍼드,의류/디테일,
+G018,pleated,en,플리츠,의류/디테일,
+G019,sleeveless,en,민소매,의류/디테일,'슬리브리스' 금지
+G020,machine washable,en,기계세탁 가능,세탁표시,
+G021,dry clean only,en,드라이클리닝 전용,세탁표시,단독 세탁 안내 병기
+G022,hand wash,en,손세탁,세탁표시,
+G023,ワンピース,ja,원피스,의류/품목,
+G024,裏起毛,ja,기모,소재,'안기모'로 풀지 않음
+G025,トートバッグ,ja,토트백,잡화/품목,
+G026,送料無料,ja,무료배송,배송,정책 용어와 통일
+G027,连衣裙,zh,원피스,의류/품목,
+G028,卫衣,zh,맨투맨,의류/품목,후드 없는 경우 '맨투맨'
+G029,纯棉,zh,순면,소재,
+G030,包邮,zh,무료배송,배송,

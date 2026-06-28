@@ -1,0 +1,14 @@
+﻿model,release_year,params_b,family,arch,open_source,org
+BERT-base,2018,0.11,BERT,encoder,예,Google
+GPT-2,2019,1.5,GPT,decoder,예,OpenAI
+T5-11B,2019,11,T5,encoder-decoder,예,Google
+GPT-3,2020,175,GPT,decoder,아니오,OpenAI
+LLaMA,2023,65,LLaMA,decoder,예,Meta
+LLaMA 2,2023,70,LLaMA,decoder,예,Meta
+Mistral 7B,2023,7,Mistral,decoder,예,Mistral AI
+GPT-4,2023,,GPT,decoder,아니오,OpenAI
+Gemini 1.0,2023,,Gemini,decoder,아니오,Google
+Gemini 1.5,2024,,Gemini,decoder,아니오,Google
+Qwen2.5,2024,72,Qwen,decoder,예,Alibaba
+bge-m3,2024,0.57,BGE,encoder,예,BAAI
+Gemini 2.5 Flash,2025,,Gemini,decoder,아니오,Google
