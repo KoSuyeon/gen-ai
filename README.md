@@ -24,8 +24,9 @@ gen-ai/                  ← 작업 루트(ROOT)
 ├── data/                ← 실습 데이터
 ├── requirements.txt     ← 라이브러리 목록
 └── code/                ← (앞으로 만들어나갈 곳)
-    ├── ch001_01_practice.ipynb
-    ├── ch002_01_practice.ipynb
+    ├── 001_(학습이론).ipynb
+    ├── 002_(학습이론).ipynb
+    ├── 003_gemini-first-call.ipynb
     └── ...
 
 ```
