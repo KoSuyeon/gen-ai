@@ -33,7 +33,7 @@ gen-ai/                  ← 작업 루트(ROOT)
 
 ---
 
-## 🗂️ 데이터셋
+## 🗂️ 데이터셋 (강사님 강의자료이므로 .gitignore)
 ```
 data/
 ├── cs_inquiries.csv     ← cs 문의 데이터
