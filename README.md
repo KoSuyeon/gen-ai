@@ -1,5 +1,5 @@
 # kt cloud tech up 교육 수강
-이론 수업 및 모델 학습은 Colab에서 진행합니다. (GPU 지원)
+이론 수업 및 모델 학습은 Colab에서 진행합니다. (GPU 지원)   
 실무형 프로젝트 관리 및 서빙은 Local에서 진행합니다. (IDE: Vscode)
 
 ---
@@ -33,11 +33,13 @@ gen-ai/                  ← 작업 루트(ROOT)
 ---
 
 ## 🗂️ 데이터셋 (강사님 강의자료이므로 .gitignore)
+실제 이커머스 사이트에서 얻을 수 있는 데이터들 (ex. 주문정보, 제품정보image/text, 고객문의QA, 자사정책pdf 등)
 ```
 data/
 ├── cs_inquiries.csv     ← cs 문의 데이터
 ├── orders.csv           ← 주문정보 데이터 
 ├── product_reviews.csv
+|   ...
 └── product_images/      ← 제품 홍보 이미지
 ```
 
