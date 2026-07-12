@@ -1,5 +1,4 @@
-# gen-ai
-kt cloud tech up 교육 자료
+# kt cloud tech up 교육 수강
 
 > 
 
