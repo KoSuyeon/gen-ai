@@ -1,4 +1,4 @@
-# kt cloud tech up 교육 수강
+# 🚀 kt cloud tech up 교육 - 생성형AI 3회차 수강
 이론 수업 및 모델 학습은 Colab에서 진행합니다. (GPU 지원)   
 실무형 프로젝트 관리 및 서빙은 Local에서 진행합니다. (IDE: Vscode)
 
